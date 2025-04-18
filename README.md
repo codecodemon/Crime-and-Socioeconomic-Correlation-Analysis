@@ -1,2 +1,2 @@
 # Crime-and-Socioeconomic-Correlation-Analysis
-A university project analyzing the correlation between crime rates and socioeconomic factors using public datasets and data visualization tools.
+This project explores potential correlations between various socioeconomic indicators and crime rates. Using Python and SQL, we cleaned, visualized, and interpreted the data to uncover patterns that could inform public policy and preventive strategies.
